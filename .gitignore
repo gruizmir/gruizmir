@@ -1,3 +1,7 @@
+*.sublime-project
+gruizmir/secrets.py* 
+fabfile.py*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
